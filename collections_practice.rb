@@ -5,7 +5,7 @@ sort_array_asc expect(sort_array_asc([25, 7, 1])).to eq([1,7,25])
 end
 
 def sort_array_desc
-sort_array_desc
+sort_array_desc 
 end
 
 def sort_array_char_count
